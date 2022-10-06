@@ -7,3 +7,4 @@
 1. [Microsoft SDL](https://www.microsoft.com/en-us/securityengineering/sdl/practices);
 1. [Luigi Project](https://luigi-project.io/);
 1. [Micro Frontends In Action](https://micro-frontends.org/);
+1. [ImgFlip](https://imgflip.com/);
